@@ -1,1 +1,0 @@
-        console.log("xin chào bạn đến với kênh của mình")
